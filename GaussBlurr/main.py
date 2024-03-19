@@ -54,14 +54,3 @@ print(end)
 plt.imshow(y)
 plt.show()
 
-
-# PIL_img = T.ToPILImage()(y)
-
-
-
-# # print(pic.shape)
-# # # convert this torch tensor to PIL image 
-# # PIL_img = T.ToPILImage()(pic)
-
-# # # display result
-# PIL_img.show()
